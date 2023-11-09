@@ -1,0 +1,1 @@
+A project implementing a basic version of slot machine. It has 3 reels and 4 symbols that can match. 
